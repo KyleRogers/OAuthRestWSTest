@@ -1,0 +1,8 @@
+security:
+    user:
+        name:     user1
+        password: pw1
+    basic:
+        enabled:  true
+        realm:    BasicWS
+        path:     /**
